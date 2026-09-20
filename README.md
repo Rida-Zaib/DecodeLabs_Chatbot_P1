@@ -1,3 +1,4 @@
+Live at: https://rida-zaib.github.io/DecodeLabs_Chatbot_P1/
 # Rule-Based AI Chatbot — Project 1
 
 **DecodeLabs — Artificial Intelligence Industrial Training Kit (Batch 2026)**
